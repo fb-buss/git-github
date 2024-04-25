@@ -1,4 +1,4 @@
-<font color="pink">**git init**:</font> Inicia um novo repositório Git no diretório atual.<br>
+**git init**: Inicia um novo repositório Git no diretório atual.
 **git clone [URL]**: Clona um repositório existente do Git para sua máquina local.
 **git add . [arquivo]**: Adiciona alterações de arquivos ao índice (staging area) para serem incluídas no próximo commit.
 **git commit -m "[mensagem]"**: Registra as alterações dos arquivos na área de preparação com uma mensagem explicativa das mudanças feitas.
