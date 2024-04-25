@@ -1,4 +1,3 @@
 # Git e Github
 
-[Wiki](https://github.com/fb-buss/git-github/wiki)
-<img src="https://media.tenor.com/z2uPpUM8v5MAAAAi/gify-na-dobranoc.gif" width="18px">
+Base sólida para explorar e utilizar o GitHub com confiança e eficiência em seus projetos de desenvolvimento de software: [Wiki](https://github.com/fb-buss/git-github/wiki)
