@@ -1,4 +1,6 @@
 **git init**: Inicia um novo repositório Git no diretório atual.<br>
+<font color="pink">git init</font>: Inicia um novo repositório Git no diretório atual.<br>
+
 
 **git clone [URL]**: Clona um repositório existente do Git para sua máquina local.<br>
 
